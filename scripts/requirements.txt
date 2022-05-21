@@ -4,3 +4,4 @@ pillow
 scipy
 tqdm
 azure-cognitiveservices-search-websearch
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
